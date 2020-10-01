@@ -24,9 +24,11 @@ DISCLAIMER: This project and all related resources are provided without any guar
 [![](http://img.youtube.com/vi/9s-Q_Xbm_GY/0.jpg)](http://www.youtube.com/watch?v=9s-Q_Xbm_GY "Prototype")
 
 **Actual build:**
+
 ![Prototype build](resources/proto_build.jpg "Prototype build")
 
 **And a short demonstration:**
+
 [![](http://img.youtube.com/vi/f7BWuTpa6zQ/0.jpg)](http://www.youtube.com/watch?v=f7BWuTpa6zQ "Example prototype build")
 
 ## Parts 
